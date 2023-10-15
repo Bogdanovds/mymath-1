@@ -6,7 +6,6 @@ func Sqrt(x float64) float64 {
 	return math.Sqrt(x)
 }
 
-
 func Floor(x float64) float64 {
 	return math.Floor(x)
 }
